@@ -1,5 +1,5 @@
 # cpp-learning-personal
-We didn't had any C++ course at the ENSIM so i made a very tiny project to learn the basis. This project aims to reinforce the fundamentals of the C++ language, emphasizing the differences from Java as i was already familiar with it.
+We didn't had any C++ course at the ENSIM so i made a small project to learn the basis. This project aims to reinforce the fundamentals of the C++ language, emphasizing the differences from Java as i was already familiar with it.
 
 ## Mini Projects
 
